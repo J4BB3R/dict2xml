@@ -19,7 +19,7 @@ dict : {
     }
 }
 ```
-DATA_SET in the lib is '><'
+DATA_SEP has to be chosen and give to the dict2xml function, it tell who the orphan data between the markups is
 
 #### Give in Xml :
 
